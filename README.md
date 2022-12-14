@@ -47,9 +47,7 @@ Instructions how to run:
 
 2) Click: "Sign in with your email"
 
-3) Enter in the log in credentials:
-   Username: cbatrouni@fordham.edu
-   Password: datamine22LC
+3) Enter in the log in credentials.
   
 3.5) Once logged in, (in the same browser you are currently using) visit link: https://www.kaggle.com/dataminefclcgrader/code
    
