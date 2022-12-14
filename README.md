@@ -1,5 +1,5 @@
 # DataMiningFinalProject
-This is the Data Mining Final Project for Claude, William, Romel, and Kevin 
+This is the Data Mining Final Project for Claude Batrouni, William Shrewsbury, Romel Hakin, and Kevin Yagar 
 
 Welcome to our Data Mining Final Project!
 
