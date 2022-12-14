@@ -10,11 +10,11 @@ list the instructions below. However, we also have a github (link provided below
 contains all the code (as .ipynb files) and it displays the results in each file. 
 
 
-*
-*
-*GITHUB
-*
-*
+/*
+/*
+/*GITHUB
+/*
+/*
 Github link: https://github.com/cbatrouni/DataMiningFinalProject
 
 Within the Github, it contains a folder named "Final Project Code" and pdf on the report.
@@ -30,13 +30,13 @@ Random Forest, Logistical Regression, and Naive Bayes.
 on the data set.
 
 
-*
-*
-*HOW TO RUN
-*
-* 
+/*
+/*
+/*HOW TO RUN
+/*
+/* 
 
-*VIDEO WILL BE INCLUDED*
+/*VIDEO WILL BE INCLUDED*
 
 Instructions how to run:
 1) Visit https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
