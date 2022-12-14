@@ -10,6 +10,7 @@ list the instructions below. However, we also have a github (link provided below
 contains all the code (as .ipynb files) and it displays the results in each file. 
 
 
+
 **
 **
 **GITHUB
@@ -30,13 +31,16 @@ Random Forest, Logistical Regression, and Naive Bayes.
 on the data set.
 
 
-/*
-/*
-/*HOW TO RUN
-/*
-/* 
 
-/*VIDEO WILL BE INCLUDED*
+
+
+**
+**
+**HOW TO RUN
+**
+** 
+
+**VIDEO WILL BE INCLUDED**
 
 Instructions how to run:
 1) Visit https://www.kaggle.com/account/login?phase=startSignInTab&returnUrl=%2F
