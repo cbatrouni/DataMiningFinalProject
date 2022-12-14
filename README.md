@@ -13,7 +13,7 @@ contains all the code (as .ipynb files) and it displays the results in each file
 /*
 /*
 /*GITHUB
-/*
+/* 
 /*
 Github link: https://github.com/cbatrouni/DataMiningFinalProject
 
