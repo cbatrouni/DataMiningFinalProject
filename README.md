@@ -10,11 +10,11 @@ list the instructions below. However, we also have a github (link provided below
 contains all the code (as .ipynb files) and it displays the results in each file. 
 
 
-/*
-/*
-/*GITHUB
-/* 
-/*
+**
+**
+**GITHUB
+** 
+**
 Github link: https://github.com/cbatrouni/DataMiningFinalProject
 
 Within the Github, it contains a folder named "Final Project Code" and pdf on the report.
