@@ -41,7 +41,7 @@ Instructions how to run:
 2) Click: "Sign in with your email"
 
 3) Enter in the log in credentials.
-  
+  LOG IN CREDENTIALS ARE IN THE README TEXT IN THE BLACKBOARD SUBMITTED ZIP.
 3.5) Once logged in, (in the same browser you are currently using) visit link: https://www.kaggle.com/dataminefclcgrader/code
    
 
